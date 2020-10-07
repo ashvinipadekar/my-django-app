@@ -1,0 +1,9 @@
+li=[10,12,13,45,80,65,12,56,23]
+#li.append(50)
+#print(li)
+li.insert(2,89)
+li.pop(1)
+li1=li
+new=list(li1)
+x=li.count(1)
+print(x)
